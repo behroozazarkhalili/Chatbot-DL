@@ -1,2 +1,2 @@
-chromadb==1.2.0
+chromadb==1.2.1
 langchain==1.0.1
