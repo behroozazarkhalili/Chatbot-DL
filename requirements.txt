@@ -1,2 +1,2 @@
 chromadb==1.5.7
-langchain==1.2.11
+langchain==1.2.16
