@@ -1,2 +1,2 @@
-chromadb==1.5.7
+chromadb==1.5.8
 langchain==1.2.17
